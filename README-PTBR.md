@@ -22,7 +22,7 @@ Mencione as ferramentas que você utilizou para criar seu projeto
 
 ### 🔩 Analise os testes de ponta a ponta
 
-* [HTML] (http://www.dropwizard.io/1.0.2/docs/) - Linguagem de marcação de hipertexto.
+* [HTML](http://www.dropwizard.io/1.0.2/docs/) - Linguagem de marcação de hipertexto.
 
 ### ⌨️ E testes de estilo de codificação
 
